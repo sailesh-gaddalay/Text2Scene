@@ -1,0 +1,13 @@
+/Users/Sailesh/Documents/CS/Projects/CDSAML/text2scene/ShapeNetCore.v1/03001627/e6e65bbad248c82c4c59782c74cbf5c7/model.obj
+2
+-3
+-3
+/Users/Sailesh/Documents/CS/Projects/CDSAML/text2scene/ShapeNetCore.v1/03001627/41ceeeab52fd3ed3a341228b21d337a9/model.obj
+1
+-2
+/Users/Sailesh/Documents/CS/Projects/CDSAML/text2scene/ShapeNetCore.v1/03001627/8cfc69d79fca89223a4a5c95fa1b0032/model.obj
+1
+-1
+/Users/Sailesh/Documents/CS/Projects/CDSAML/text2scene/ShapeNetCore.v1/04379243/8c68ea99b5de38d3a6d7a9f3c5f7bb41/model.obj
+1
+-5
